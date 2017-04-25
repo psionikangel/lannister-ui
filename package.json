@@ -8,7 +8,7 @@
     "theme",
     "lannister"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/psionikangel/lannister-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
